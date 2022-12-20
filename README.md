@@ -7,5 +7,6 @@ tests/test00 - the file with the numbers
 Environment
 Language: Bash script
 OS: Ubuntu 14.04 LTS
+
 Author :
 Ella Nsofor
